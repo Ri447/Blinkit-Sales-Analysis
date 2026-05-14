@@ -57,46 +57,34 @@ The following KPIs were calculated and analyzed:
 
 ---
 
-## 📊 Visualizations Included
+## 📊 Sample Visualizations
 
 ### Sales by Fat Content
-Analysis of Low Fat vs Regular item sales distribution.
-
 ![Sales by Fat Content](images/sales_by_fat_content.png)
 
 ---
 
 ### Sales by Item Type
-Comparison of total sales across different product categories.
-
 ![Sales by Item Type](images/sales_by_item_type.png)
 
 ---
 
 ### Outlet Tier by Fat Content
-Comparison of sales based on outlet location tiers and item fat content.
-
 ![Outlet Tier by Fat Content](images/outlet_tier_fat_content.png)
 
 ---
 
 ### Outlet Establishment Trend
-Year-wise trend of outlet establishment and sales performance.
-
 ![Outlet Establishment](images/outlet_establishment_trend.png)
 
 ---
 
 ### Outlet Size Distribution
-Distribution of sales across Small, Medium, and High outlet sizes.
-
 ![Outlet Size Distribution](images/outlet_size_distribution.png)
 
 ---
 
 ### Sales by Outlet Location
-Comparison of total sales across outlet location tiers.
-
 ![Sales by Outlet Location](images/sales_by_outlet_location.png)
 
 ---
